@@ -1,2 +1,2 @@
-api_key = 'sk-Vq5dW1yVn1kQW15lW9Vzz5CpeHwPpWUmRsmO4bS5ZpT3BlbkFJysk8YW8Cmuoub2L07YchYRjkYf60cnGuPjkr1VhhAA'
+api_key = 'sk-'
 second_key=""
